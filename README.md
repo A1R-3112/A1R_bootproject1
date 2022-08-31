@@ -221,11 +221,11 @@ for i in range(len(df_trend_sum)):
 >* 지역별 판매량에서 인기가 많은 게임들에 대한 비율을 원그래프로 표현
 ><details>
 ><summary> Global </summary>
-<img width="450" alt="Global Top10 Games" src="https://user-images.githubusercontent.com/103639510/187595708-61149f39-89f2-4d4d-b0ff-0d0b97c004c1.png">
+ <img width="450" alt="Global Top10 Games" src="https://user-images.githubusercontent.com/103639510/187595708-61149f39-89f2-4d4d-b0ff-0d0b97c004c1.png">
  </details>
 ><details>
 ><summary> Each Region </summary>
-><img width="1050" src="https://user-images.githubusercontent.com/103639510/187595505-f300ef95-1c23-4f15-9c1e-96bbd06c203b.png">
+ <img width="1050" src="https://user-images.githubusercontent.com/103639510/187595505-f300ef95-1c23-4f15-9c1e-96bbd06c203b.png">
  </details>
 
 * 세계 전체로 살펴보면 Wii Sports가 가장 인기가 많고 그에 뒤따라서 GTA5가 인기가 많은 것으로 확인된다.
