@@ -219,15 +219,19 @@ for i in range(len(df_trend_sum)):
 
 >* 전체 판매량(Sales_sum)에서 인기가 많은 게임들에 대한 비율을 원그래프로 표현
 >* 지역별 판매량에서 인기가 많은 게임들에 대한 비율을 원그래프로 표현
-><details>
- <summary> Global </summary>
-  <img width="450" alt="Global Top10 Games" src="https://user-images.githubusercontent.com/103639510/187595708-61149f39-89f2-4d4d-b0ff-0d0b97c004c1.png">
- </details>
-><details>
- <summary> Each Region </summary>
-  <img width="1050" src="https://user-images.githubusercontent.com/103639510/187595505-f300ef95-1c23-4f15-9c1e-96bbd06c203b.png">
- </details>
 
+<details>
+<summary> Global </summary>
+
+<img width="450" alt="Global Top10 Games" src="https://user-images.githubusercontent.com/103639510/187595708-61149f39-89f2-4d4d-b0ff-0d0b97c004c1.png">
+
+</details>
+<details>
+<summary> Each Region </summary>
+
+<img width="1050" src="https://user-images.githubusercontent.com/103639510/187595505-f300ef95-1c23-4f15-9c1e-96bbd06c203b.png">
+
+</details>
 * 세계 전체로 살펴보면 Wii Sports가 가장 인기가 많고 그에 뒤따라서 GTA5가 인기가 많은 것으로 확인된다.
 * NA 및 EU가 00년도 이후 Wii Sports 게임이 가장 인기가 많음
 * JP의 경우, Super Mario Bros가 가장 인기가 있지만 Top5 내의 게임들의 판매비중의 차이가 근소하고 오히려 RPG 장르인 Pokemon 시리즈의 게임들이 많은 비중을 차지한다.
