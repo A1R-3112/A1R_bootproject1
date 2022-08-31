@@ -193,9 +193,9 @@ for i in range(len(df_trend_sum)):
                ).fillna(0)
 
  Sum_pivot.head()
-```
+ ```
+ </details>
 </details>
-
 <img width="1381" src="https://user-images.githubusercontent.com/103639510/187600113-7f530fe4-2935-4db2-8e99-dbff04412b6d.png">
 
 >* 북미의 경우, 10년도 이후 Xbox가 한번 트렌드가 되었고, 현재에는 Nintendo 플랫폼의 판매량이 늘어나는 추세이다.
